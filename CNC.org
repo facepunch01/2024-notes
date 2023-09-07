@@ -1,3 +1,0 @@
-#+title: Cnc
-* Notes
-** [[file:AthensArchery.org]]
