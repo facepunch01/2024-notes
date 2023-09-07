@@ -1,0 +1,15 @@
+---
+title: "Anki"
+date: 2023-09-07T12:53:47-05:00
+---
+* Idiom
+  :PROPERTIES:
+  :ANKI_DECK: School
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_TAGS: languages european_languages
+  :ANKI_NOTE_ID: 1694109346564
+  :END:
+** Front
+   (it's) raining cats and dogs
+** Back
+   it's raining very hard

@@ -1,0 +1,7 @@
+---
+title: "IntrotoProgramming"
+date: 2023-09-07T14:02:57-05:00
+draft: true
+---
+* This whole logic system was made in programming class
+- haha haha haha
